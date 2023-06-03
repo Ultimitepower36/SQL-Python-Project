@@ -4,8 +4,6 @@ This python code was written in order to demonstraite the compatability between 
 This program has two main purposes depending on how many times you have used it before. For the first time, it creates and populates
 the database with the required fields. It then allows for one to read and edit the data as they see fit.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
-
 [Software Demo Video](https://youtu.be/9Gtb2R8UIno)
 
 # Relational Database
